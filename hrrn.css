@@ -1,0 +1,15 @@
+.border {
+    text-align: center;
+    width: 45px;
+    height: 45px;
+}
+
+.border-1 {
+    text-align: center;
+    width: 45px;
+    height: 10px;
+}
+
+.d-flex {
+    height: 45px;
+}
